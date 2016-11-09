@@ -11,13 +11,13 @@
     margin: 0 auto;
 }
         #headerMain {
-         width: 1280px;
+         width: 900px;
          height: 195px;
          margin: 0px auto;
          z-index: 0;    
         }
         #header {
-          width: 1280px;
+          width: 900px;
          height: 195px;
          background-color: yellow;
          position: fixed;
